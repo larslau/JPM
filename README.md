@@ -1,0 +1,2 @@
+# JPM
+Joint Propagation Model
