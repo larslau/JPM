@@ -10,7 +10,16 @@ The JPM is implemented in the R and C++ using the [Template Model Builder](https
 
 Example
 --------------------
-Below is an illustration of how JPM can produce harmonized CenTauR units from SUVR obtained from different tracers. Simulations can be run using [example.R](example.R) which also illustrates how to use the JPM code.
+Below are ilustrations of how JPM can produce harmonized CenTauR units from SUVR obtained from different tracers. Simulations can be run using [example.R](example.R) which also illustrates how to use the JPM code.
 
-![](img/CTR_mapping.png)
-![](img/CTR_eval.png)
+Observed SUVRs across four different tracers and results on the harmonized CenTauR scale.
+
+<p align="center">
+<img src='img/CTR_mapping.png' width='100%'>
+</p>
+
+Relationship between the estimated CenTauRs and the true CenTauRs used to generate the data.
+
+<p align="center">
+<img src='img/CTR_eval.png' width='50%'>
+</p>
