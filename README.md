@@ -7,3 +7,10 @@ The JPM is implemented in the R and C++ using the [Template Model Builder](https
 > If you are using this code, please reference
 > 
 > Leuzy, A., Raket, L.L., et al. "Roadmap for harmonizing tau PET in Alzheimer's disease: the Joint Propagation model". *Alzheimer's & Dementia* (2024).
+
+Example
+--------------------
+Below is an illustration of how JPM can produce harmonized CenTauR units from SUVR obtained from different tracers. Simulations can be run using [example.R](example.R) which also illustrates how to use the JPM code.
+
+![](img/CTR_mapping.png)
+![](img/CTR_eval.png)
