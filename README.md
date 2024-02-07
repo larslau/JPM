@@ -21,5 +21,5 @@ Observed SUVRs across four different tracers and results on the harmonized CenTa
 Relationship between the estimated CenTauRs and the true CenTauRs used to generate the data.
 
 <p align="center">
-<img src='img/CTR_eval.png' width='50%'>
+<img src='img/CTR_eval.png' width='65%'>
 </p>
