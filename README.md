@@ -6,7 +6,7 @@ The JPM is implemented in the R and C++ using the [Template Model Builder](https
 > [!NOTE]
 > If you are using this code, please reference
 > 
-> Leuzy, A., Raket, L.L., et al. "Roadmap for harmonizing tau PET in Alzheimer's disease: the Joint Propagation model". *Alzheimer's & Dementia* (2024).
+> [Leuzy, A., Raket, L.L., et al. "Harmonizing tau positron emission tomography in Alzheimer's disease: The CenTauR scale and the joint propagation model". *Alzheimer's & Dementia* (2024)](https://dx.doi.org/10.1002/alz.13908)
 
 Example
 --------------------
